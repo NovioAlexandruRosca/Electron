@@ -29,24 +29,39 @@ All the graphics used are handmade, together with their corresponding implementa
 
 And many more added features.
 
-Here you can see a couple of screenshots of the app
+Here you can see a couple of screenshots of the app:
+- **The main menu**
 ![image_2024-02-03_150720448-transformed](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/bb90b2ff-869f-4d86-bfaf-040165a87926)
+- **The ability to load premade schemas**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/1fdd1674-c3c5-4528-8aa8-f276f4957fcf)
+- **Multiple language support**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/2a1266b3-0b6e-4fe7-b5f6-f62fc9a73b35)
+- **Loading Screens animation and tips are randomly selected and change based on the language**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/6505eca7-75b3-41f3-800e-8aee615bf13c)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/42d24d1b-a946-404c-acfb-b151a5d06ec2)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/9d7f4b0a-80b3-4a0d-bdcb-b0443350e6bf)
+- **Main App**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/fd959cbf-bb47-43e9-b013-1a7d1eba860d)
+- **Multiple themes and backgrounds**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/4e9cb57f-cc34-4087-ba1f-060fe2e48ad8)
+- **All the components available and their shortcuts**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/97138714-1e03-40bf-9179-65929339bf0b)
+- **No grid mode**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c3f5758f-7f7e-4021-984d-826a49f1767d)
+- **The help manual**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/04a04759-9e46-48cc-a887-8f14e6b86544)
+- **Example of a circuit schema**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c4368177-bf0a-4b52-aadb-8d93b82b555b)
+- **The modifications you can do to a component(not the same for all components)**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/4afcc89f-6c03-4b44-ade9-78e0ed1f940d)
+- **The menu reacting to which part of the screen the component is in**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/f98c3cd3-c8d6-4f3b-8ac1-b59374d8c765)
+- **Themes change the schema as well/the ability to zoom in/out of the schema**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/d3c2fdce-1ecc-457e-abbc-a4479ffb141e)
+- **The schema allows rotation of the entire table and individual components**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/6b8806b0-b6f1-4096-ad68-3e12b40f2b53)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c1d09ef2-e7a2-44a2-b83a-644b231ba3cc)
+- **You can save/load at any time**
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/66826606-71ff-4e67-8760-0898da8b9516)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/a53514ad-9f31-461e-b5bf-078d49291c16)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/5dfe0f1b-fad2-412c-b2b3-a6810c715cb7)
