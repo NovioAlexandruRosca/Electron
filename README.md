@@ -57,8 +57,9 @@ Here you can see a couple of screenshots of the app:
 - **Grid Mode Toggle**: The option to toggle the grid mode within the application.
   ![Grid Mode Toggle](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c3f5758f-7f7e-4021-984d-826a49f1767d)
 
-- **Help Manual**: Access to the comprehensive help manual for user assistance.
+- **Help Manual**: Access to the comprehensive help manual for user assistance.  
   ![Help Manual](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/04a04759-9e46-48cc-a887-8f14e6b86544)
+
 
 - **Example Circuit Schema**: A sample circuit schema within the application.
   ![Example Circuit Schema](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c4368177-bf0a-4b52-aadb-8d93b82b555b)
