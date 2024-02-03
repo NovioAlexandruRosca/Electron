@@ -29,6 +29,8 @@ All the graphics used are handmade, together with their corresponding implementa
 
 And many more other features.
 
+## Screenshots
+
 Here you can see a couple of screenshots of the app:
 
 - **Main Menu**: The main menu interface of the application.
