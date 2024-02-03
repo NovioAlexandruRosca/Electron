@@ -62,7 +62,6 @@ Here you can see a couple of screenshots of the app:
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/6b8806b0-b6f1-4096-ad68-3e12b40f2b53)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/c1d09ef2-e7a2-44a2-b83a-644b231ba3cc)
 - **You can save/load at any time**
-![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/66826606-71ff-4e67-8760-0898da8b9516)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/a53514ad-9f31-461e-b5bf-078d49291c16)
 ![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/5dfe0f1b-fad2-412c-b2b3-a6810c715cb7)
 
