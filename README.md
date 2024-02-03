@@ -27,7 +27,7 @@ All the graphics used are handmade, together with their corresponding implementa
 - **Simple Helping Manual**: Users can access a simple helping manual at any time to assist with using the application.
 - **Mouse and Keyboard Interaction**: Users can interact with the features of the app using both the mouse and the keyboard.
 
-- **And many more added features.**
+And many more other features.
 
 Here you can see a couple of screenshots of the app:
 
