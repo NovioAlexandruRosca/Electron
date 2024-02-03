@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1673209590 source:c:\users\alexa\pictures\project\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<fstream>
+	<MMsystem.h>
+
+1266087014 d:\apps\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266087014 d:\apps\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
