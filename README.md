@@ -1,7 +1,7 @@
 # Project Title: Electronic Schema Viewer using WinBGIm Library
 
-## Data of Creation
-10/11/2022 - 10/12/2022
+## Creation Interval.
+October 10, 2022-December 10, 2022
 
 ## Description
 This project implements a simple electronic schema viewer using the WinBGIm graphics library. With this application, users can visualize electronic circuit diagrams and schematics in a user-friendly interface. The program allows users to load predefined schema files or create and edit their own electronic schematics using basic drawing tools provided by WinBGIm. The application aims to provide an intuitive platform for students and hobbyists to design, analyze, and understand electronic circuits visually. It offers a hands-on experience for learning electronics principles and circuit design concepts in an interactive environment.
@@ -23,6 +23,10 @@ All the graphics used are handmade, together with their corresponding implementa
 - **Smart Component Connectivity**: Components are intelligently designed to connect only from predefined sides, enhancing the integrity and clarity of the schematics.
 - **Advanced Connection Algorithm**: The application utilizes a combination of A* algorithm and Dijkstra's algorithm to intelligently connect components, ensuring efficient and optimal routing.
 - **Component Deletion**: Users can easily delete components from the schema, streamlining the editing process and allowing for iterative design improvements.
+- **Simple Helping Manual**: Users can access a simple helping manual at any time to assist with using the application.
+- **Mouse and Keyboard Interaction**: Users can interact with the features of the app using both the mouse and the keyboard.
 
-![image](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/40d2d53a-df59-4aba-83d5-74a1dba633f3)
+And many more added features.
 
+Here you can see a couple of screenshots of the app
+![image_2024-02-03_150720448-transformed](https://github.com/AlexandruRoscaPOO/Electron/assets/113398639/bb90b2ff-869f-4d86-bfaf-040165a87926)
